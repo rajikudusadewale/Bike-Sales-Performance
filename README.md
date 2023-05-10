@@ -3,11 +3,11 @@ Excel
 
 I performed bike sales analytics, and designed a Bike Sales Performance Dashboard using Excel.
 
-**The bike company want to know what influenced Individual customers that got a bike, what's attributes customers that got bikes and the ones that didnt possess. 
+**The bike company want to know what influenced Individual customers that got a bike, what's attributes customers that got bikes and the ones that didnt possess.**
 
 The dashboard consists of various charts and slicers that provide insights into bike sales performance based on parameters such as customer demographics, customer distance, occupation, income, and age bracket. In this report, I will present the trends and insights obtained from the dashboard, draw conclusions and provide recommendations.
 
-**** Steps I took are highligted below:
+**Analysis Pipeline**
 
  **Data Cleaning**
  
@@ -20,7 +20,7 @@ I changed some columns data to what we can easily comprehend in visualization. I
 **Data Visualization and Reporting** 
 Used Pivot  to create the dashboard.
 
-![Bike Sales Performance Dashboard](https://github.com/rajikudusadewale/Bike-Sales-Performance/blob/main/Bike%20Sales%20Performance%20Dashboard.png)
+![Bike Sales Performance Dashboard](https://github.com/rajikudusadewale/Bike-Sales-Performance/blob/main/Bike_S_Performance_D.jpg)
 
 ### Trends and Insights
 Based on the data analyzed from the dashboard, the following trends and insights can be observed:
