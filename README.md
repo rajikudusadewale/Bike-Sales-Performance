@@ -11,7 +11,7 @@ The dashboard consists of various charts and slicers that provide insights into 
 
  **Data Cleaning**
  
--Removed 26 duplicate values, to avoid data redundancy. Left with 1000 unique values.
+Removed 26 duplicate values, to avoid data redundancy. Left with 1000 unique values.
 
 **Data Processing & Manipulation** 
 
