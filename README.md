@@ -18,7 +18,7 @@ Removed 26 duplicate values, to avoid data redundancy. Left with 1000 unique val
 I changed some columns data to what we can easily comprehend in visualization. In the marital status column, M text was replaced with Married, while S text was replaced with Single. In the Gender column, M was replaced with Male, while F was replaced with Female. I added a new column for Age Bracket (<31=adolescent, >=31 =middle age, >50 = Old).  
 
 **Data Visualization and Reporting** 
-Used Pivot  to create the dashboard.
+Used Excel (Pivot)  to create the dashboard.
 
 ![Bike Sales Performance Dashboard](https://github.com/rajikudusadewale/Bike-Sales-Performance/blob/main/Bike_S_Performance_D.jpg)
 
